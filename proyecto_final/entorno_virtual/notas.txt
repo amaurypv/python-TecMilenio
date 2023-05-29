@@ -1,0 +1,6 @@
+para crear un entorno virtual en la terminal nos tenemos que situar en la carpeta que hayamos
+elegido como nuestro entorno y desde ahi ejecutamos el siguiente comando 
+python3 -m venv nombredecarpeta
+nos va a generar una carpeta y dentro de esta carpeta van a haber 3 carpetas
+bin, include y lib 
+se va a generar otra carpte llamada src que va a estar al mismo nivel del entorno
